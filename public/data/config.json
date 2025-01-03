@@ -1,0 +1,8 @@
+{
+  "preloadImages": [
+    {
+      "name": "cat",
+      "src": "images/WhiteCatIdle.png"
+    }
+  ]
+}

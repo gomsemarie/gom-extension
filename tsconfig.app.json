@@ -25,20 +25,20 @@
     /* Path Align */
     "baseUrl": "src",
     "paths": {
-      "@assets/*": ["assets/*"],
-      "@components/*": ["components/*"],
-      "@consts/*": ["consts/*"],
-      "@containers/*": ["containers/*"],
-      "@hooks/*": ["hooks/*"],
-      "@modules/*": ["modules/*"],
-      "@pages/*": ["pages/*"],
       "@assets": ["assets"],
       "@components": ["components"],
       "@consts": ["consts"],
       "@containers": ["containers"],
       "@hooks": ["hooks"],
       "@modules": ["modules"],
-      "@pages": ["pages"]
+      "@pages": ["pages"],
+      "@assets/*": ["assets/*"],
+      "@components/*": ["components/*"],
+      "@consts/*": ["consts/*"],
+      "@containers/*": ["containers/*"],
+      "@hooks/*": ["hooks/*"],
+      "@modules/*": ["modules/*"],
+      "@pages/*": ["pages/*"]
     }
   },
   "include": ["src"]
